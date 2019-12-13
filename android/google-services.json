@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80069074237",
+    "firebase_url": "https://plussygame.firebaseio.com",
+    "project_id": "plussygame",
+    "storage_bucket": "plussygame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80069074237:android:e22d1f5a51ba6e05d43954",
+        "android_client_info": {
+          "package_name": "com.plussy.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80069074237-qupge4bhn2ifj9a5pg3dnjo5nfbhl63b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcZ_TArWG-NvtcmoaaRsuhAzSxBreXsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80069074237-qupge4bhn2ifj9a5pg3dnjo5nfbhl63b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
